@@ -1,4 +1,5 @@
-name: Add License Action
+- name: Repo Selective Sync
+  uses: icub-tech-iit/gh-action-repo-selective-sync@v1.1.1
 author: Ephraim Atta-Duncan
 description: GitHub Action for creating license for Projects.
 
